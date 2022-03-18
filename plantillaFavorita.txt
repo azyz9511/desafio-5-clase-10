@@ -1,0 +1,7 @@
+Hola, tutor
+aun no me decido por que motor de plantillas elegir, estoy entre ejs y pug
+hbs no me gusto para nada y fue el que mas se me complicó
+
+Creo que por el momento estaria eligiendo ejs por que se ve mas robusto y con mas funcionalidades.
+
+Gracias.
